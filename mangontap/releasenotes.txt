@@ -1,0 +1,11 @@
+Mango Blog Plugin v.1.0 beta 
+
+Version 1.4 of Mango blog has been a challenge 
+to create as a plugin for the onTap framework. 
+
+- Basic blog functionality works.
+
+- File Manager is not working. 
+
+- User and Security management is entirely managed 
+by the Members onTap plugin instead of Mango Blog 
